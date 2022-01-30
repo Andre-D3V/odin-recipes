@@ -1,3 +1,3 @@
 # odin-recipes
 
-We will building a site of a recipe.
+We will building a site of a recipes.
